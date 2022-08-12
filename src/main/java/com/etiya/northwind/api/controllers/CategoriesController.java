@@ -16,7 +16,7 @@ import javax.validation.Valid;
 import java.util.List;
 
 @RestController
-@RequestMapping("/api/categorys")
+@RequestMapping("/api/categories")
 public class CategoriesController {
     private CategoryService categoryService;
 
